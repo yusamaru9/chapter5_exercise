@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  width: 100%;
+  height: 88px;
+  margin: 0 auto;
+  text-align: center;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: gray;
+}
+header .heading {
+  font-size: 32px;
+  padding: 20px 0;
+}
+.nav-list {
+  text-align: center;
+  padding:  15px 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: gray;
+}
+.nav-list-item {
+  list-style: none;
+  display: inline-block;
+  margin: 0 40px;
+}
+a {
+  padding: 15px 20px;
+}
+.main {
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+.main1 {
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+.main2 {
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+.main-content4 {
+  width: 200px;
+  height: 200px;
+  background-color: #e6ffe9;
+}
+.main-content5 {
+  width: 200px;
+  height: 200px;
+  background-color: #cbffd3;
+}
+.main-content6 {
+  width: 200px;
+  height: 200px;
+  background-color: #aeffbd;
+}
+.main-content7 {
+  width: 200px;
+  height: 200px;
+  background-color: #93ffab;
+}
+.main-content8 {
+  width: 200px;
+  height: 200px;
+  background-color: #f3ffd8;
+}
+.main-content9 {
+  width: 200px;
+  height: 200px;
+  background-color: #edffbe;
+}
+.main-content10 {
+  width: 200px;
+  height: 200px;
+  background-color: #e9ffa5;
+}
+.main-content11 {
+  width: 200px;
+  height: 200px;
+  background-color: #e4ff8d;
+}
+.main-content12 {
+  width: 200px;
+  height: 200px;
+  background-color: #d9e5ff;
+}
+.main-content13 {
+  width: 200px;
+  height: 200px;
+  background-color: #bad3ff;
+}
+.main-content14 {
+  width: 200px;
+  height: 200px;
+  background-color: #a4c6ff
+}
+.main-content15 {
+  width: 200px;
+  height: 200px;
+  background-color: #8eb8ff
+}
+footer {
+  width: 100%;
+  height: 120px;
+  text-align: center;
+  line-height: 120px;
+  background-color: gray;
+}
+.footer-text {
+  color: white;
+}
